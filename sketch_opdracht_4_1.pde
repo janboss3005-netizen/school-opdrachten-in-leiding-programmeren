@@ -1,0 +1,17 @@
+size(350,350);
+int a;
+a=75;
+int b;
+b=75;
+int c;
+c=50;
+int d;
+d=50;
+int x;
+x=255;
+int y;
+y=0;
+int z ;
+z=255;
+fill(x,y,z);
+rect (a ,b ,c,d);
